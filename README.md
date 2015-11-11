@@ -1,2 +1,2 @@
-# helloword_jni
+# JNI-Helloworld
 Helloword using JNI
